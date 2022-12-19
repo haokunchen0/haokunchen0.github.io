@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am now a M.S. student at [Palm](http://palm.seu.edu.cn/home.html) lab, Department of Computer Science, Southeast University (SEU), China supervised by Prof Xin Geng and Prof Xu Yang. I got my B.S. degree from Nanjing University of Science and Technology (NJUST) supervised by Prof Jian Yang.
+I am now a M.S. student at [PALM](http://palm.seu.edu.cn/home.html) lab, Department of Computer Science, Southeast University (SEU), China supervised by Prof Xin Geng and Prof Xu Yang. I got my B.S. degree from Nanjing University of Science and Technology (NJUST) supervised by Prof Jian Yang.
 
 ## Research Interests
 
